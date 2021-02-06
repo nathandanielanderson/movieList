@@ -10,6 +10,6 @@ module.exports = {
     ecmaVersion: 2018,
     sourceType: 'module',
   },
-  pluigns: ['react'],
+  plugins: ['react'],
   extends: ['eslint:recommended', 'plugin:react/recommended'],
 };
